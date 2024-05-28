@@ -1,8 +1,8 @@
 # quickfood-domain-story-telling
 
-Domain diagram to demonstrate the order and delivery flow of the quickfood self-service system.
+Diagrama de domínio para demonstrar o fluxo de pedidos e entregas do sistema de autoatendimento QuickFood.
 
-## Important links
+## Links importantes
 
 - [Egon](https://egon.io/)
 
